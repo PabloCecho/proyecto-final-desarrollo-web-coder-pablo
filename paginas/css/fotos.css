@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    padding: 0;
+    }
+    
+img{
+    width: 100%;
+    }
+    
+.row{
+    display: flex ;
+    padding: 5px;
+}    
+
+.column{
+    flex: 10%;
+    padding: 5px;
+
+}
+
+.column img{
+    margin: 5px;
+    padding: 5px;
+}
+body{
+    background-color:rgb(250, 225, 192) ;
+}

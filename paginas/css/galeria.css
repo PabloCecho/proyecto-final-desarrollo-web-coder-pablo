@@ -1,0 +1,19 @@
+.grid-container{
+    display: grid;
+    background-color: pink;
+    grid-template-columns: 2;
+}
+.grid-container div{
+    background-color: wheat;
+    text-align: left;
+    color: black;
+    border: 1px solid black;
+}
+.parent {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: 1fr;
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    }
+

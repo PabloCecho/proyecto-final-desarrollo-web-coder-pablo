@@ -1,0 +1,39 @@
+
+
+h1{
+    text-align: center;
+    border: 0em;
+    color: antiquewhite;
+    font-family: 'Coming Soon', cursive;
+font-family: 'Gideon Roman', cursive;
+font-family: 'Pacifico', cursive;
+}
+
+h2{
+    text-align: center;
+    border: 0em;
+    color: blueviolet;
+    font-family: 'Coming Soon', cursive;
+font-family: 'Gideon Roman', cursive;
+font-family: 'Pacifico', cursive;
+}
+
+h3{
+    text-align: center;
+    border: 0em;
+    color:black;
+    font-family: 'Coming Soon', cursive;
+font-family: 'Gideon Roman', cursive;
+font-family: 'Pacifico', cursive;
+}
+
+
+p{
+    text-align: right;
+    color: bisque;
+    font-size: larger;
+    font-family: 'Vollkorn', serif;
+}
+
+
+

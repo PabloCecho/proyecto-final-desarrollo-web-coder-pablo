@@ -1,0 +1,25 @@
+
+
+body{
+    background-color: rgb(250, 225, 192);
+}
+
+.container-fluid{
+    background-color: wheat;
+}
+.main{
+    text-emphasis-color: wheat;
+
+}
+.container p-5 my-5 {
+    color: wheat;
+    text-decoration-color: wheat;
+}
+
+.parent {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    }
